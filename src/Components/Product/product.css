@@ -1,0 +1,11 @@
+.card{
+    background-color: bisque!important;
+    height: 500px !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.card-img-top{
+    height: 240px;
+}

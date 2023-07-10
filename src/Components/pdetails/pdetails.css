@@ -1,0 +1,17 @@
+.paraaText {
+    color: rgb(10, 25, 41);
+    font-size: 1.2rem;
+    font-weight: 450;
+  } 
+
+  .img{
+    width: 100%;
+    max-width: 50rem;
+    height:30rem;
+   }
+   .blog{
+    background-color: #1f3e72;
+    color: orange;
+    font-size: 2.5rem;
+    font-weight: 600
+ } 
